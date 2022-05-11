@@ -14,7 +14,7 @@ The appropriate changes have been made to your html and css code which ensure ac
 1. The title has been updated to give a quick view of the Horiseon brand
 2. HTML class and id attributes have been condensed, removed or changed due to repetition
 
-For example in the image below, the divs for the benefits section all have the same class "benefits section" (found on lines 56, 63, 70) because they are all styled the same.
+For example, in the image below, the div tags for the benefit section all have the same class "benefit-sections" (found on lines 56, 63, 70) because they are all styled the same.
 ![code screenshot](assets/images/glance-at-code.png)
 
 3. CSS styles have also been condensed (following the above), so that there is no repetitive code for multiple elements
