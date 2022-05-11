@@ -28,7 +28,7 @@ For example, in the image below, the div tags for the benefit section all have t
 
 
 ## Notes
-It was found that the image under "Social Media Marketing" would receive a "display:none;" property from the web browser. This was fixed in the css targeting all images with "display:inline !important;" as I was unaware of how to fix this. If there are suggestions please let me know.
+It was found that the image under "Social Media Marketing" would receive a "display:none !important;" property from my web browser. I tried to target the style in css and give it a property but I was unable to resolve this. My belief is that this does not occur on every browser as it is visible on my phone but there does need to be a resolution for this.
 
 
 ## Final Product
