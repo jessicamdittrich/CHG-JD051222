@@ -85,6 +85,7 @@ article {
 
 .main-services img {
     max-height: 200px;
+    display:inline !important;
 }
 
 .float-left {

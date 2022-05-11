@@ -27,6 +27,10 @@ For example, in the image below, the div tags for the benefit section all have t
 3. Notes in the CSS code were added to break up the different sections being targeted
 
 
+## Notes
+It was found that the image under "Social Media Marketing" would receive a "display:none;" property from the web browser. This was fixed in the css targeting all images with "display:inline !important;" as I was unaware of how to fix this. If there are suggestions please let me know.
+
+
 ## Final Product
 
 [Click here to view your website](https://jessicamdittrich.github.io/CHG-JD051222/)
